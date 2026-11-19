@@ -1,5 +1,5 @@
 flowers = [
-    {"name": "Розы", "price": 250},
+    {"name": "Розы", "price": 300},
     {"name": "Тюльпаны", "price": 150},
     {"name": "Пионы", "price": 400},
 ]
